@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidStudio\\yangbofeng\\tryCatchException\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "E:\\androidStudio\\yangbofeng\\tryCatchException\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\yangbofeng\\tryCatchException\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\androidStudio\\yangbofeng\\tryCatchException\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\yangbofeng\\tryCatchException\\build\\intermediates\\res\\merged\\debug\\layout\\activity_crash.xml",
+        "source": "E:\\androidStudio\\yangbofeng\\tryCatchException\\src\\main\\res\\layout\\activity_crash.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\androidStudio\\yangbofeng\\tryCatchException\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\androidStudio\\yangbofeng\\tryCatchException\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\yangbofeng\\tryCatchException\\build\\intermediates\\res\\merged\\debug\\menu\\crash.xml",
+        "source": "E:\\androidStudio\\yangbofeng\\tryCatchException\\src\\main\\res\\menu\\crash.xml"
+    }
+]
